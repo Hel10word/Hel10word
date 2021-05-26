@@ -1,11 +1,11 @@
-## Hey <img src="https://github.com/SoftCreatR/SoftCreatR/raw/master/waving.gif" width="45px">, This is Hel10word, 'l' disappeared 🙃
+## Hey <img src="https://github.com/Hel10word/Hel10word/blob/master/waving.gif" width="35px">, This is Hel10word, 'l' disappeared 🙃
 
 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🌱 &nbsp; I’m currently learning Backend
-- 📫 How to reach me: hel10word@qq.com
+- 📫 &nbsp; How to reach me: hel10word@qq.com
 - 🎓 &nbsp; Studying Computer Science, computer programming.
 - 🏸 &nbsp; Badminton enthusiast.
 - 💭 &nbsp; Let's get to know each other
@@ -20,6 +20,8 @@
 
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+
 ![Hel10word Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hel10word&layout=compact)
 
 

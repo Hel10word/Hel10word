@@ -22,7 +22,11 @@
 
 🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️ 🧜&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏎️ 💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hel10word"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hel10word&show_icons=true"/>
+
+
+
+
 
 
 

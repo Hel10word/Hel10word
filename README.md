@@ -1,4 +1,12 @@
-## Hey <img src="https://github.com/Hel10word/Hel10word/blob/master/waving.gif" width="35px">, This is Hel10word, 'l' disappeared 🙃
+
+
+
+
+[![github-profile](https://github.com/Hel10word/Hel10word/blob/master/hello-im-hel10word.svg)](https://www.calligrapher.ai/)
+
+
+
+## Hey <img src="https://github.com/Hel10word/Hel10word/blob/master/waving.gif" width="35px">, I'm Hel10word,Why not Hel10world,Cause 'l' was eaten by kitten 😸😸😸
 
 
 
@@ -7,22 +15,14 @@
 - 🌱 &nbsp; I’m currently learning Backend
 - 📫 &nbsp; How to reach me: hel10word@qq.com
 - 🎓 &nbsp; Studying Computer Science, computer programming.
-- 🏸 &nbsp; Badminton enthusiast.
+- 🏸 &nbsp; Badminton fan.
 - 💭 &nbsp; Let's get to know each other
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Java | Python 
-- 🌐 &nbsp; SSM | HTML | CSS | JavaScript | Bootstrap 
-- 🛢  &nbsp; MySQL | SQL Server | Redis
-- 🔧 &nbsp; Visual Studio code | Eclipse | IDEA | Git
 
 
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-
-![Hel10word Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hel10word&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Hel10word"/>
 
 
 

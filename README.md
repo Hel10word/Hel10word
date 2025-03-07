@@ -30,9 +30,7 @@
 
 
 
-![Java](https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=java&logoColor=ffffff)  ![python](https://img.shields.io/badge/-python-3572a5?style=flat-square&logo=python&logoColor=ffffff) ![github](https://img.shields.io/badge/-github-8E2DE2?style=flat-square&logo=github&logoColor=ffffff) ![Steam](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff) 
-
-
+![Java](https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=java&logoColor=ffffff)  ![python](https://img.shields.io/badge/-python-3572a5?style=flat-square&logo=python&logoColor=ffffff)  ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)  ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=ffffff)
 
 
 ⭐️ From [Hel10word](https://github.com/Hel10word)
